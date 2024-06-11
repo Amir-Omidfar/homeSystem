@@ -1,4 +1,4 @@
 # homeSystem
-## jetson nano
-1. username: amir
-2. password: 1373
+## jetson nano credentials:
+- **username:** amir
+- **password:** 1373
