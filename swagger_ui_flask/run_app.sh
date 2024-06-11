@@ -1,1 +1,2 @@
-docker run -it test-image:latest bash
+echo $PATH
+docker run --privileged -itd --network host -v  /home/amir/homeSystem/swagger_ui_flask/shared:/app/shared base-image:latest bash
